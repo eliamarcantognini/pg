@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'PGV'
+    description: 'Pastorale Giovanile e Vocazionale di Pesaro'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
