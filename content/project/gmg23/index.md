@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Gmg23"
-summary: ""
+title: "GMG 2023"
+summary: "Giornata Mondiale della Gioventù 2023 a Lisbona!"
 authors: []
-tags: []
+tags: ['EV']
 categories: []
-date: 2022-05-02T18:11:55+02:00
+date: 2023-08-06T18:11:55+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.lisboa2023.org/en"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
