@@ -6,7 +6,7 @@ summary: "Giornata Mondiale della Gioventù 2023"
 authors: []
 tags: []
 categories: []
-date: 2023-08-06T13:30:00+02:00
+date: 2022-05-02T13:30:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
