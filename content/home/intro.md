@@ -18,5 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Benvenuto nella pagina della Pastorale Giovanile e Vocazionale di Pesaro!
+👋 Benvenuto nella pagina della Pastorale Giovanile e Vocazionale di Pesaro!  
 Scopri tutte le news e gli eventi! 😍

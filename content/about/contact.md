@@ -12,8 +12,6 @@ weight: 50
 title: Contattaci
 subtitle:
 
-
-
 content:
 
   # Automatically link email and phone or display as text?
