@@ -6,7 +6,7 @@ summary: "Un breve momento di Lectio seguito da un aperitivo insieme!"
 authors: []
 tags: ["PG"]
 categories: []
-date: 2022-05-02T18:12:10+02:00
+date: 2022-05-04T17:00:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 
 # Custom links (optional).

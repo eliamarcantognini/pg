@@ -6,10 +6,10 @@ summary: "Giornata Mondiale della Gioventù 2023 a Lisbona!"
 authors: []
 tags: ['EV']
 categories: []
-date: 2023-08-06T18:11:55+02:00
+date: 2023-08-06
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.lisboa2023.org/en"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
