@@ -29,4 +29,4 @@ social:
 
 ---
 
-Continua a seguirci sui nostri social per avere tutte le informazioni, non dimenticarti di iscriverti alla newsletter su [Telegram]{{<ref "https://t.me/eliamarcanto">}}!
+Continua a seguirci sui nostri social per avere tutte le informazioni, non dimenticarti di iscriverti alla newsletter su [Telegram]{{<a href="https://t.me/eliamarcanto">}}!
