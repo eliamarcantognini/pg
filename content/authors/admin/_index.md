@@ -8,10 +8,6 @@ superuser: true
 # Role/position
 role: ''
 
-# Status emoji
-# status:
-#   icon: ☕️
-
 # Short bio (displayed in user profile at end of posts)
 bio: Pastorale Giovanile e Vocazionale di Pesaro.
 
@@ -30,4 +26,3 @@ social:
 ---
 
 Continua a seguirci sui nostri social per avere tutte le informazioni, non dimenticarti di iscriverti alla newsletter su Telegram!
-
