@@ -6,7 +6,7 @@ summary: "Un momento di Lectio seguito da un aperitivo!"
 authors: []
 tags: ["PG"]
 categories: []
-date: 2022-05-04T19:00:00+02:00
+date: 2022-05-01T19:00:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
