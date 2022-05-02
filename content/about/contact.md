@@ -18,7 +18,7 @@ content:
 
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -26,7 +26,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
     email: pgv@chiesapesaro.it
@@ -45,6 +45,8 @@ content:
     office_hours:
       - 'Lunedì - Venerdì 10:00 to 13:00'
       - 'Sabato 09:00 to 10:00'
+
+
 design:
   columns: '1'
 ---
