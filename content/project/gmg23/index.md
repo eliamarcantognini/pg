@@ -4,7 +4,7 @@
 title: "GMG 2023"
 summary: "Giornata Mondiale della Gioventù 2023"
 authors: []
-tags: []
+tags: ["EV", "PG"]
 categories: []
 date: 2022-05-02T13:30:00+02:00
 

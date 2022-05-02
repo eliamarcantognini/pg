@@ -28,7 +28,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: pgv@chiesapesaro.it
-  phone: 0721331133
+  phone: "0721331133"
   address:
     street: Via Gioacchino Rossini, 56
     city: Pesaro

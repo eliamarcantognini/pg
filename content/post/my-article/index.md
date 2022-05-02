@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Article"
-subtitle: ""
+title: "Aperilectio"
+subtitle: "AAAA"
 summary: ""
 authors: []
-tags: []
+tags: ["PG"]
 categories: []
 date: 2022-05-02T20:23:50+02:00
 lastmod: 2022-05-02T20:23:50+02:00
@@ -25,5 +25,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["aperilectio"]
 ---
