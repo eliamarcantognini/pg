@@ -13,7 +13,7 @@ baseURL: 'https://pgvpesaro.netlify.app/' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /post/**
+      path: /news/**
     editable: true
     reading_time: true
     commentable: true
