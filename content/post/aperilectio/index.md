@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Aperilectio"
-subtitle: "AAAA"
+subtitle: "Un momento di Lectio seguito da un aperitivo!"
 summary: ""
 authors: []
 tags: ["PG"]
@@ -25,5 +25,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["aperilectio"]
+projects: []
 ---
